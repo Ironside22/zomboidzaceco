@@ -1,0 +1,98 @@
+Last updated: 1st October 2015
+
+Hello survivor! Here’s the scoop on what you are allowed to do, and what you’re not allowed to do, through the purchase and continuing use of our game and forums! Hooray!
+
+FIRST OFF:
+Project Zomboid is created and owned by The Indie Stone Limited. These Terms also apply to our Indie Stone forums at http://theindiestone.com/forums/. If you don’t agree to these terms, please don’t purchase/install/use Project Zomboid or our forums.
+
+When you purchase Project Zomboid, you are paying for the product as it stands at that point in time. Purchases made while Project Zomboid is being developed are discounted and include the full game upon release.
+The Indie Stone are resolute in their determination to continue working on Project Zomboid for many years to come, but your purchase is the game ‘as is’, rather than for future milestone builds in the PZ road-map.
+All purchases apply to PC, Mac and Linux desktop versions of the current game only – and not any potential future sequels or offshoots or ports related to the game.
+
+PURCHASE OF PROJECT ZOMBOID OR USE OF OUR FORUMS MEANS:
+
+The golden rule is that you can do what you want with Project Zomboid as long as it promotes Project Zomboid and is not for commercial purposes (i.e. for your own profit – unless we approved that in advance) or for malicious/illegal purposes.
+Some examples of what we mean are below.  If you have any doubts or questions about whether you can or can’t do something, contact us first at info@theindiestone.com instead of just doing/not doing it!  If you’re not sure what any of this means, please ask us first (and our reasonable determination is final!)
+
+WE GIVE YOU A LICENSE TO:
+
+Change or distribute the base files or contents in any way you like, provided that those changes do not result in you making Project Zomboid available to play or download (this includes making it available open source), or are for the purposes of cheating, unauthorised hacking, exploits or griefing other people or are malicious or illegal in intent or practice.
+Use art, music, video footage or other assets of Project Zomboid for creative purposes in any way you like providing the end result is related in some way to promoting Project Zomboid, is for non-commercial use only (unless we agreed otherwise with you) and states Project Zomboid as its influence and origin by supplying the following wording prominently with the assets: “Thanks to The Indie Stone for creating Project Zomboid http://projectzomboid.com/), which made this possible. This is an unofficial fan production for non-commercial purposes made under the Indie Stone Terms [link to these terms]“
+If you use any third party contents, IP, software or tools together with Project Zomboid then it’s your responsibility to make sure you have all the necessary licences and permissions etc. We can’t be responsible for you. If you are concerned that your intellectual property rights may have been infringed, please see our IP Rights Policy at the foot of this document.
+You can make gameplay footage or “Let’s Play” type videos on YouTube or other online video platforms, and monetise them if you like too. Again, you’re responsible for them.
+This means that we still own Project Zomboid and everything in it, plus our forums too. It's just that we're giving you the right to play around with the game, as explained above.
+
+SO, JUST TO UNDERLINE, THAT DEFINITELY MEANS YOU ARE NOT PERMITTED TO:
+
+Modify the base files of Project Zomboid to include malicious code or other naughtiness.
+Distribute Project Zomboid yourself, or host its download. In order to ensure the game’s integrity we recommend it should only ever be downloaded from established portals on which we’ve placed it (e.g. Steam).
+
+IN TERMS OF MODS:
+
+The Indie Stone reserve the right to implement any features in the game irrespective of whether mods exist that accomplish the same goal.
+
+[The Indie Stone are free to use any ideas found in user mods, and while we will give credit if we genuinely use ideas directly from mods – we are not required to give credit or remuneration of any kind. This is purely because people may create mods that are already part of the PZ roadmap, and we don’t want to be dragged into ‘this was my idea’ arguments. The Indie Stone will of course fall over themselves to credit any mod author we genuinely use ideas from.]
+
+PZ modders are solely responsible for their mod, including (but not limited to compliance with any hosting platforms (such as Steam Workshop). They are also responsible for obtaining third party consents for any third party materials in the mod. Legally, we have to ask that modders to ‘represent and warrant’ (i.e. promise legally) that their mod is their own original work and any third party contents are fully and properly licensed by the modder.
+PZ users are responsible for their usage of PZ mods – we don’t check them and we can’t be responsible for them.
+Creation of mods is subject to our modding guidelines, which may be updated from time to time with any technical requirements regarding how PZ mods must work.
+
+IN TERMS OF RUNNING SERVERS:
+
+If you are a server owner then charging those who play on it is, of course, totally fine. You can clearly run whatever mods you like on it too, so long as they fit within our guidelines.
+The Indie Stone, however, do NOT encourage or allow server owners to charge for specific items, mods or gameplay that is made and distributed exclusively for said server. Beyond server access, we do not approve of monetising any aspect of the game proper.
+
+[Explanation: although we recognise that most server owners wouldn’t allow for ‘pay to win’ mods such as ‘a shotgun with infinite ammo for $40’ – we have to guard against this, as some server owners could. As such a blanket policy against this sort of server is our chosen course of action.
+
+Our modding guidelines also state that we do not allow mods to be sold (unless we gave our approval first) – and, although a slightly different set-up, server-specific game modifications alongside a financial exchange fall far enough inside this bracket to create a grey area. Given time this could be exploited, and as such we feel that from the outset we shouldn't allow, encourage or support it.]
+
+WORKING WITH CONTRIBUTORS:
+
+Project Zomboid is a passion project for both its developers and a community with whom we often work hand-in-hand. Examples of this include internal build testing, translation and advice from platform experts. This is done in return for our gratitude, a game credit and a shared sense of Zomboid loveliness.
+
+Any other form of remuneration for contributions from outside of the The Indie Stone will always be officially agreed in writing – away from the forum – before any work takes place on the part of either developer or contributor. This covers all development up to this point, and everything in future Zomboid builds.
+
+Should The Indie Stone and a contributor join forces to bring a user modification into the official Project Zomboid build all remuneration will be discussed at that time. There is no automatic entitlement to any past, current or future revenue of Project Zomboid or for any other payments from The Indie Stone to a contributor unless they’ve agreed it expressly in writing.
+
+ANY OTHER BUSINESS:
+
+We may collect anonymised information about your usage of Project Zomboid or our forums from time to time for the purpose of improving or protecting them.  We won’t collect any personal data from you unless you give it to us with your consent.  Our forums have their own privacy policy at http://theindiestone.com/forums/index.php/privacypolicy/.
+
+The Indie Stone reserve the right to change this terms: we’ll post the amended terms on our site and they’ll take effect a reasonable period afterwards.  If you disagree with any of the changes please contact us ASAP at info@theindiestone.com
+
+The Indie Stone is based in the UK so if there’s any kind of legal stuff or dispute about Project Zomboid – they’ll be governed by English Law and by the English Courts.
+
+That’s pretty much it. We don’t want a million rules, but this document should make it clear what our promises to you are. That said these rules are here for a reason – so if you break any of them we reserve the right to suspend or take away your access to Project Zomboid or our forums, or do anything else we deem necessary.
+
+If you have any questions feel free to get in touch with us at info@theindiestone.com
+
+TL;DR:
+
+Do what the hell you want, just don’t take the piss.
+
+
+
+
+THE INDIE STONE IP RIGHTS POLICY
+
+The Indie Stone Limited respects the intellectual property of others and we expect the users of our services do the same. If you believe that your copyright or other intellectual property rights have been infringed and are accessible through a website or other online service operated by The Indie Stone, you may notify our agent in accordance with the United States’ Digital Millennium Copyright Act 1998 (DMCA).  This IP Rights Policy also applies to the European Union’s E-Commerce Directive 2000/31/EC (including appropriate EU Member State implementing legislation), and any other applicable IP rights legislation worldwide, in relation to other applicable intellectual property rights.
+
+To file an infringement notification with us, you will need to send a written communication that includes the following (please consult your legal counsel or, if applicable, see Section 512(c)(3) of the DMCA to confirm these requirements):
+
+A physical or electronic signature of a person authorised to act on behalf of the copyright or other IP rights owner.
+
+Identification of the work claimed to have been infringed.
+
+Identification of the material that is claimed to be infringing or to be the subject of infringing activity and which is requested to be removed or disabled, along information reasonably sufficient to enable us to locate the material.
+
+Information reasonably sufficient to enable us to contact you, for example an email address, telephone number or other contact details.
+
+A statement that you have a good faith belief that use of the material in the manner complained of is not authorised by the owner, its agent, or the law.
+
+A statement that the information in the notification is accurate, and under penalty of perjury under the DMCA, that you are authorised to act on behalf of the owner of an exclusive right which allegedly is infringed.
+
+Please send this notification by email to info@theindiestone.com.
+
+This information may be forwarded to the person allegedly providing the infringing content.
+
+Please note that if applicable under Section 512(f) of the DMCA any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability for damages. Please take this seriously!
